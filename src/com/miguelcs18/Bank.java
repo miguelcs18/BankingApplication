@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Bank {
     private String name;
-    private ArrayList<Branch> branches = new ArrayList<Branch>();
+    private ArrayList<Branch> branches;
     public void addNewBranch()
     {
     }
