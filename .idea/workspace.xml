@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Adapt Customer constructor and add addTransaction method.">
-      <change beforePath="$PROJECT_DIR$/src/com/miguelcs18/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miguelcs18/Customer.java" afterDir="false" />
-    </list>
+    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Replace the Double explicit with &lt;&gt;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664199480670</updated>
-      <workItem from="1664199483792" duration="10816000" />
+      <workItem from="1664199483792" duration="11356000" />
     </task>
     <task id="LOCAL-00001" summary="Create Bank class">
       <created>1664199638778</created>
@@ -248,7 +246,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664216084860</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Initialize transactions and add initial amount to ArrayList">
+      <created>1664216359079</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1664216359079</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Replace the Double explicit with &lt;&gt;">
+      <created>1664216397651</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1664216397652</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,8 +290,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create Branch class" />
-    <MESSAGE value="Create Customer class" />
     <MESSAGE value="Adding Customer class ArrayList for transactions" />
     <MESSAGE value="Add name for Customer and access modifier to ArrayList." />
     <MESSAGE value="Create addNewCustomer and addTransaction methods" />
@@ -303,6 +313,8 @@
     <MESSAGE value="Remove redundancy in declaration." />
     <MESSAGE value="Remove email member variable" />
     <MESSAGE value="Adapt Customer constructor and add addTransaction method." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adapt Customer constructor and add addTransaction method." />
+    <MESSAGE value="Initialize transactions and add initial amount to ArrayList" />
+    <MESSAGE value="Replace the Double explicit with &lt;&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Replace the Double explicit with &lt;&gt;" />
   </component>
 </project>
