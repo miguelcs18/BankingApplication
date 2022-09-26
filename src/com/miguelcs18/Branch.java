@@ -21,9 +21,13 @@ public class Branch {
         this.branchName = branchName;
     }
 
-    private void addNewCustomer(String customerName)
+    public boolean addNewCustomer(String customerName, double initialAmount)
     {
-
+        if(findCustomer(customerName) == null){
+            this.customers.add(new Customer(customerName,initialAmount));
+            return true;
+        }
+        return false;
     }
 
     private void addTransaction(Double transactionAmount)

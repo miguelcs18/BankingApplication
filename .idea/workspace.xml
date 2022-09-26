@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Replace the Double explicit with &lt;&gt;" />
+    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Add customers ArrayList">
+      <change beforePath="$PROJECT_DIR$/src/com/miguelcs18/Branch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miguelcs18/Branch.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664199480670</updated>
-      <workItem from="1664199483792" duration="11356000" />
+      <workItem from="1664199483792" duration="11709000" />
     </task>
     <task id="LOCAL-00001" summary="Create Bank class">
       <created>1664199638778</created>
@@ -260,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664216397652</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Add customers ArrayList">
+      <created>1664217114181</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1664217114182</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,7 +299,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding Customer class ArrayList for transactions" />
     <MESSAGE value="Add name for Customer and access modifier to ArrayList." />
     <MESSAGE value="Create addNewCustomer and addTransaction methods" />
     <MESSAGE value="Create addNewBranch, addCustomer, addTransaction, showCustomers methods to Bank class" />
@@ -315,6 +323,7 @@
     <MESSAGE value="Adapt Customer constructor and add addTransaction method." />
     <MESSAGE value="Initialize transactions and add initial amount to ArrayList" />
     <MESSAGE value="Replace the Double explicit with &lt;&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Replace the Double explicit with &lt;&gt;" />
+    <MESSAGE value="Add customers ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add customers ArrayList" />
   </component>
 </project>
