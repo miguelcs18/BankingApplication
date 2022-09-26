@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Add branches ArrayList" />
+    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Make access modifier private for branches ArrayList" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664199480670</updated>
-      <workItem from="1664199483792" duration="2253000" />
+      <workItem from="1664199483792" duration="2555000" />
     </task>
     <task id="LOCAL-00001" summary="Create Bank class">
       <created>1664199638778</created>
@@ -113,7 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664201186778</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="branchId and branchName added">
+      <created>1664201858598</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664201858598</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Make access modifier private for branches ArrayList">
+      <created>1664202037405</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664202037405</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +165,8 @@
     <MESSAGE value="Create addNewCustomer and addTransaction methods" />
     <MESSAGE value="Create addNewBranch, addCustomer, addTransaction, showCustomers methods to Bank class" />
     <MESSAGE value="Add branches ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add branches ArrayList" />
+    <MESSAGE value="branchId and branchName added" />
+    <MESSAGE value="Make access modifier private for branches ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make access modifier private for branches ArrayList" />
   </component>
 </project>
