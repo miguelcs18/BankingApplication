@@ -30,8 +30,14 @@ public class Branch {
         return false;
     }
 
-    private void addTransaction(Double transactionAmount)
+    public boolean addTransaction(String customerName, double transactionAmount)
     {
-
+        Customer existingCustomer = findCustomer(customerName);
+        if(existingCustomer != null)
+        {
+            existingCustomer.addTransaction(transactionAmount);
+            return true;
+        }
+        return false;
     }
 }
