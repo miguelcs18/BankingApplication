@@ -1,3 +1,5 @@
+package com.miguelcs18;
+
 public class Branch {
 
     private String branchName;

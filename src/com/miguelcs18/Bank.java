@@ -1,3 +1,5 @@
+package com.miguelcs18;
+
 import java.util.ArrayList;
 
 public class Bank {
