@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Create addNewBranch, addCustomer, addTransaction, showCustomers methods to Bank class">
-      <change beforePath="$PROJECT_DIR$/src/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
-    </list>
+    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Add branches ArrayList" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664199480670</updated>
-      <workItem from="1664199483792" duration="1640000" />
+      <workItem from="1664199483792" duration="2253000" />
     </task>
     <task id="LOCAL-00001" summary="Create Bank class">
       <created>1664199638778</created>
@@ -108,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664200814154</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add branches ArrayList">
+      <created>1664201186778</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664201186778</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +150,7 @@
     <MESSAGE value="Add name for Customer and access modifier to ArrayList." />
     <MESSAGE value="Create addNewCustomer and addTransaction methods" />
     <MESSAGE value="Create addNewBranch, addCustomer, addTransaction, showCustomers methods to Bank class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create addNewBranch, addCustomer, addTransaction, showCustomers methods to Bank class" />
+    <MESSAGE value="Add branches ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add branches ArrayList" />
   </component>
 </project>
