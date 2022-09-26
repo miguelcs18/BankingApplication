@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Create addNewCustomer and addTransaction methods">
+    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Create addNewBranch, addCustomer, addTransaction, showCustomers methods to Bank class">
       <change beforePath="$PROJECT_DIR$/src/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664199480670</updated>
-      <workItem from="1664199483792" duration="1277000" />
+      <workItem from="1664199483792" duration="1640000" />
     </task>
     <task id="LOCAL-00001" summary="Create Bank class">
       <created>1664199638778</created>
@@ -101,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664200517197</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Create addNewBranch, addCustomer, addTransaction, showCustomers methods to Bank class">
+      <created>1664200814154</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664200814154</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +119,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -125,6 +144,7 @@
     <MESSAGE value="Adding Customer class ArrayList for transactions" />
     <MESSAGE value="Add name for Customer and access modifier to ArrayList." />
     <MESSAGE value="Create addNewCustomer and addTransaction methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create addNewCustomer and addTransaction methods" />
+    <MESSAGE value="Create addNewBranch, addCustomer, addTransaction, showCustomers methods to Bank class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create addNewBranch, addCustomer, addTransaction, showCustomers methods to Bank class" />
   </component>
 </project>
