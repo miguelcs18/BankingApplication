@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Remove redundancy in declaration." />
+    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Adapt Customer constructor and add addTransaction method.">
+      <change beforePath="$PROJECT_DIR$/src/com/miguelcs18/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miguelcs18/Customer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664199480670</updated>
-      <workItem from="1664199483792" duration="10408000" />
+      <workItem from="1664199483792" duration="10816000" />
     </task>
     <task id="LOCAL-00001" summary="Create Bank class">
       <created>1664199638778</created>
@@ -232,7 +234,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664215708591</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Remove email member variable">
+      <created>1664215953691</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1664215953691</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Adapt Customer constructor and add addTransaction method.">
+      <created>1664216084860</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1664216084860</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,7 +278,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create Bank class" />
     <MESSAGE value="Create Branch class" />
     <MESSAGE value="Create Customer class" />
     <MESSAGE value="Adding Customer class ArrayList for transactions" />
@@ -286,6 +301,8 @@
     <MESSAGE value="Put all files in package com.miguelcs18" />
     <MESSAGE value="Delete redundancy in declaration." />
     <MESSAGE value="Remove redundancy in declaration." />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove redundancy in declaration." />
+    <MESSAGE value="Remove email member variable" />
+    <MESSAGE value="Adapt Customer constructor and add addTransaction method." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adapt Customer constructor and add addTransaction method." />
   </component>
 </project>
