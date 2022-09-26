@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Bank {
     private ArrayList<Branch> branches = new ArrayList<Branch>();
-    private void addNewBranch()
+    public void addNewBranch()
     {
     }
     private void addCustomer()
@@ -13,7 +13,7 @@ public class Bank {
     {
 
     }
-    private void showCustomers()
+    public void showCustomers()
     {
 
     }
