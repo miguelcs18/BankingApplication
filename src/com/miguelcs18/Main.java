@@ -36,5 +36,9 @@ public class Main {
         {
             System.out.println("Customer does not exists in branch!");
         }
+        if(!bank.addCustomer("Tazmania","Mike",12.21))
+        {
+            System.out.println("Customer Mike already exists!");
+        }
     }
 }
