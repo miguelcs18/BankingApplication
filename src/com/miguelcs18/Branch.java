@@ -12,6 +12,9 @@ public class Branch {
         this.customers = new ArrayList<>();
     }
 
+    public ArrayList<Customer> getCustomers() {
+        return customers;
+    }
 
     public String getBranchName() {
         return branchName;
