@@ -18,5 +18,6 @@ public class Main {
         bank.addTransaction("Tazmania","Pau",1.65);
 
         bank.showCustomers("Tazmania",true);
+        bank.showCustomers("Sydney",true);
     }
 }

@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Clean Main class and main method to test with sample data">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/miguelcs18/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miguelcs18/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Make space in Amount" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664199480670</updated>
-      <workItem from="1664199483792" duration="18519000" />
+      <workItem from="1664199483792" duration="18821000" />
     </task>
     <task id="LOCAL-00001" summary="Create Bank class">
       <created>1664199638778</created>
@@ -354,7 +351,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664288680401</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Instantiate objects and put data to test">
+      <created>1664289530668</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1664289530668</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Change index i to j in for loop">
+      <created>1664289560908</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1664289560908</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Make space in Amount">
+      <created>1664289635104</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1664289635104</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,9 +402,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add member variable name for Bank class" />
-    <MESSAGE value="Add member variable email for Customer class" />
-    <MESSAGE value="Add member variable email for Customer class." />
     <MESSAGE value="Remove Double redundancy according to recommendations" />
     <MESSAGE value="Add constructor, getters and setters to customer class" />
     <MESSAGE value="Put all files in package com.miguelcs18" />
@@ -409,6 +424,9 @@
     <MESSAGE value="Logic for method showCustomers" />
     <MESSAGE value="Fix logic for equals method in findBranch method" />
     <MESSAGE value="Clean Main class and main method to test with sample data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clean Main class and main method to test with sample data" />
+    <MESSAGE value="Instantiate objects and put data to test" />
+    <MESSAGE value="Change index i to j in for loop" />
+    <MESSAGE value="Make space in Amount" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make space in Amount" />
   </component>
 </project>
