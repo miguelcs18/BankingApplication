@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Fix logic for equals method in findBranch method">
+    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Clean Main class and main method to test with sample data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/miguelcs18/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miguelcs18/Main.java" afterDir="false" />
     </list>
@@ -65,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664199480670</updated>
-      <workItem from="1664199483792" duration="17811000" />
+      <workItem from="1664199483792" duration="18519000" />
     </task>
     <task id="LOCAL-00001" summary="Create Bank class">
       <created>1664199638778</created>
@@ -347,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664287495814</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Clean Main class and main method to test with sample data">
+      <created>1664288680401</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1664288680401</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,7 +384,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Change methods access to public for testing in Main class" />
     <MESSAGE value="Add member variable name for Bank class" />
     <MESSAGE value="Add member variable email for Customer class" />
     <MESSAGE value="Add member variable email for Customer class." />
@@ -402,6 +408,7 @@
     <MESSAGE value="Getter for customers ArrayList" />
     <MESSAGE value="Logic for method showCustomers" />
     <MESSAGE value="Fix logic for equals method in findBranch method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix logic for equals method in findBranch method" />
+    <MESSAGE value="Clean Main class and main method to test with sample data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clean Main class and main method to test with sample data" />
   </component>
 </project>
