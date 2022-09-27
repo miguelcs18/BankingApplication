@@ -11,8 +11,15 @@ public class Bank {
         this.branches = new ArrayList<>();
     }
 
-    public void addNewBranch()
+    public boolean addNewBranch(String branchName)
     {
+        if(findBranch(branchName) == null)
+        {
+            this.branches.add(new Branch(branchName));
+            return true;
+        }
+
+        return false;
     }
     private void addCustomer()
     {
