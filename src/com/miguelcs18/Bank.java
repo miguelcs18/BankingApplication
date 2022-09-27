@@ -46,7 +46,7 @@ public class Bank {
         for(int i=0; i<this.branches.size(); i++)
         {
             Branch checkedBranch = this.branches.get(i);
-            if(checkedBranch.getBranchName().equals(checkedBranch))
+            if(checkedBranch.getBranchName().equals(branchName))
             {
                 return checkedBranch;
             }
