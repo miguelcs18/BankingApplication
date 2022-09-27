@@ -26,5 +26,10 @@ public class Main {
         {
             System.out.println("Error Melbourne branch does not exists!");
         }
+
+        if(!bank.addNewBranch("Tazmania"))
+        {
+            System.out.printf("Tazmania branch already exists!");
+        }
     }
 }
