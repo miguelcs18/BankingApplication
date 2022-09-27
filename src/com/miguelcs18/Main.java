@@ -19,5 +19,10 @@ public class Main {
 
         bank.showCustomers("Tazmania",true);
         bank.showCustomers("Sydney",true);
+
+        if(!bank.addCustomer("Melbourne", "Bet", 5.53))
+        {
+            System.out.println("Error Melbourne branch does not exists!");
+        }
     }
 }
