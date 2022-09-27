@@ -40,6 +40,19 @@ public class Bank {
 
         return false;
     }
+
+    private Branch findBranch(String branchName)
+    {
+        for(int i=0; i<this.branches.size(); i++)
+        {
+            Branch checkedBranch = this.branches.get(i);
+            if(checkedBranch.getBranchName().equals(checkedBranch))
+            {
+                return checkedBranch;
+            }
+        }
+        return null;
+    }
     public void showCustomers()
     {
 
