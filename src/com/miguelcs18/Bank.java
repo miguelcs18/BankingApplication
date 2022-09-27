@@ -21,9 +21,14 @@ public class Bank {
 
         return false;
     }
-    private void addCustomer()
+    public boolean addCustomer(String branchName, String customerName, double initialAmount)
     {
-
+        Branch branch = findBranch(branchName);
+        if(branch != null)
+        {
+            return branch.addNewCustomer(customerName, initialAmount);
+        }
+        return false;
     }
     private void addTransaction()
     {

@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Add findCustomer method and logic">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/miguelcs18/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miguelcs18/Bank.java" afterDir="false" />
-    </list>
+    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Logic for addNewBranch method" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664199480670</updated>
-      <workItem from="1664199483792" duration="14057000" />
+      <workItem from="1664199483792" duration="14388000" />
     </task>
     <task id="LOCAL-00001" summary="Create Bank class">
       <created>1664199638778</created>
@@ -291,7 +288,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664218653615</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Add Branch constructor and initialize branches ArrayList">
+      <created>1664284444156</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1664284444156</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Logic for addNewBranch method">
+      <created>1664284647485</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1664284647486</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,8 +332,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add branches ArrayList" />
-    <MESSAGE value="branchId and branchName added" />
     <MESSAGE value="Make access modifier private for branches ArrayList" />
     <MESSAGE value="Make constructor, getters and setters for Branch class" />
     <MESSAGE value="Adding type of ArrayList to Customer transactions and Bank branches ArrayLists" />
@@ -346,6 +355,8 @@
     <MESSAGE value="Add logic to addNewCustomer method" />
     <MESSAGE value="Add logic to addTransaction method" />
     <MESSAGE value="Add findCustomer method and logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add findCustomer method and logic" />
+    <MESSAGE value="Add Branch constructor and initialize branches ArrayList" />
+    <MESSAGE value="Logic for addNewBranch method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Logic for addNewBranch method" />
   </component>
 </project>
