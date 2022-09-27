@@ -29,7 +29,12 @@ public class Main {
 
         if(!bank.addNewBranch("Tazmania"))
         {
-            System.out.printf("Tazmania branch already exists!");
+            System.out.println("Tazmania branch already exists!");
+        }
+
+        if(!bank.addTransaction("Tazmania","Ferch",10.99))
+        {
+            System.out.println("Customer does not exists in branch!");
         }
     }
 }

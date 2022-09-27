@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Test if branch exists">
+    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Test adding branch that already exists">
       <change beforePath="$PROJECT_DIR$/src/com/miguelcs18/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miguelcs18/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664199480670</updated>
-      <workItem from="1664199483792" duration="19124000" />
+      <workItem from="1664199483792" duration="19441000" />
     </task>
     <task id="LOCAL-00001" summary="Create Bank class">
       <created>1664199638778</created>
@@ -388,7 +388,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664289947264</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Test adding branch">
+      <created>1664290000634</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1664290000634</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Test adding branch that already exists">
+      <created>1664290137184</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1664290137184</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -418,8 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Put all files in package com.miguelcs18" />
-    <MESSAGE value="Delete redundancy in declaration." />
     <MESSAGE value="Remove redundancy in declaration." />
     <MESSAGE value="Remove email member variable" />
     <MESSAGE value="Adapt Customer constructor and add addTransaction method." />
@@ -443,6 +455,8 @@
     <MESSAGE value="Make space in Amount" />
     <MESSAGE value="Test with another branch" />
     <MESSAGE value="Test if branch exists" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test if branch exists" />
+    <MESSAGE value="Test adding branch" />
+    <MESSAGE value="Test adding branch that already exists" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test adding branch that already exists" />
   </component>
 </project>
