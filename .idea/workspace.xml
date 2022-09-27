@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Make space in Amount" />
+    <list default="true" id="90b6fe4e-238c-4b96-8fa3-86c08d2a10c8" name="Changes" comment="Test if branch exists">
+      <change beforePath="$PROJECT_DIR$/src/com/miguelcs18/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/miguelcs18/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664199480670</updated>
-      <workItem from="1664199483792" duration="18821000" />
+      <workItem from="1664199483792" duration="19124000" />
     </task>
     <task id="LOCAL-00001" summary="Create Bank class">
       <created>1664199638778</created>
@@ -372,7 +374,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664289635104</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Test with another branch">
+      <created>1664289787246</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1664289787246</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Test if branch exists">
+      <created>1664289947263</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1664289947264</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,8 +418,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Remove Double redundancy according to recommendations" />
-    <MESSAGE value="Add constructor, getters and setters to customer class" />
     <MESSAGE value="Put all files in package com.miguelcs18" />
     <MESSAGE value="Delete redundancy in declaration." />
     <MESSAGE value="Remove redundancy in declaration." />
@@ -427,6 +441,8 @@
     <MESSAGE value="Instantiate objects and put data to test" />
     <MESSAGE value="Change index i to j in for loop" />
     <MESSAGE value="Make space in Amount" />
-    <option name="LAST_COMMIT_MESSAGE" value="Make space in Amount" />
+    <MESSAGE value="Test with another branch" />
+    <MESSAGE value="Test if branch exists" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test if branch exists" />
   </component>
 </project>
